@@ -1,1 +1,13 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+    <style>
+        h1 { color: darkblue; }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My First Website!</h1>
+    <p>Hello, world! This is the very first line of my very first web page.</p>
+</body>
+</html>
